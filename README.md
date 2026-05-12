@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-Built during **Semester 6 — B.Tech Cybersecurity Specialization**.
+Built during **Semester 6 — B.Tech (Hons.) in Cybersecurity and Blockchain Specialization**.
 
 The scenario: *An attacker has gained access to one internal workstation. Enumerate the internal network,
 move laterally across systems, and demonstrate how critical systems can be compromised — while a SIEM
