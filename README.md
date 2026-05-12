@@ -57,7 +57,7 @@ This lab covers:
                   └────────────────────────────┘
 ```
 
-See full topology → [`architecture/lab-topology.md`](architecture/lab-topology.md)
+See full topology → [`architecture/lab-topology.md`](lab-topology.md)
 
 ---
 
