@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-Built during **Semester 6 — B.Tech (Hons.) in Cybersecurity and Blockchain Specialization**.
+Built during **Semester 6 — B.Tech (Hons.) in Cybersecurity and Blockchain**.
 
 The scenario: *An attacker has gained access to one internal workstation. Enumerate the internal network,
 move laterally across systems, and demonstrate how critical systems can be compromised — while a SIEM
@@ -212,7 +212,7 @@ Read the complete Medium article:
 
 ## 👤 Author
 
-**Yogesh Sharda** — B.Tech (Hons.) in Cybersecurity and Blockchain Specialization
+**Yogesh Sharda** — B.Tech (Hons.) in Cybersecurity and Blockchain
 
 > *"Theory without practice is just trivia."*
 
