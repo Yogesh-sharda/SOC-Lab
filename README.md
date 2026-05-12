@@ -162,7 +162,7 @@ wazuh-soc-lab/
 | Lost Wazuh dashboard password | Credentials only shown once during install | Reset via `wazuh-passwords-tool.sh` on EC2 |
 | `agent-auth.exe` PowerShell error | Quoted paths with parameters need `&` operator | Used `& "path\agent-auth.exe" -m <ip> -A <name>` |
 
-Full troubleshooting log → [`docs/troubleshooting.md`](docs/troubleshooting.md)
+Full troubleshooting log → [`docs/troubleshooting.md`](troubleshooting.md)
 
 ---
 
