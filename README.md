@@ -212,7 +212,7 @@ Read the complete Medium article:
 
 ## 👤 Author
 
-**Yogesh Sharda** — B.Tech, Cybersecurity Specialization (Semester 6)
+**Yogesh Sharda** — B.Tech (Hons.) in Cybersecurity and Blockchain Specialization
 
 > *"Theory without practice is just trivia."*
 
