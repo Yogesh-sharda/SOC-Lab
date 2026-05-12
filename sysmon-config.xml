@@ -1,0 +1,51 @@
+<!--
+  Sysmon Configuration — Future Integration
+  ==========================================
+  Sysmon (System Monitor) provides detailed endpoint telemetry that
+  standard Windows Event Logging does not capture:
+
+  - Process creation with full command line (Event ID 1)
+  - Network connections with source process name (Event ID 3)
+  - File creation time changes (Event ID 2)
+  - Driver/image loads (Event IDs 6, 7)
+  - Remote thread creation (Event ID 8)
+  - Raw disk access (Event ID 9)
+  - Process access (Event ID 10)
+  - File creation (Event ID 11)
+  - Registry events (Event IDs 12, 13, 14)
+  - Named pipe events (Event IDs 17, 18)
+  - WMI events (Event IDs 19, 20, 21)
+  - DNS queries (Event ID 22)
+
+  INSTALL:
+  --------
+  1. Download from: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+  2. Extract ZIP
+  3. Open CMD as Administrator:
+     Sysmon64.exe -accepteula -i sysmon-config.xml
+
+  UNINSTALL:
+  ----------
+  Sysmon64.exe -u
+
+  RECOMMENDED CONFIG:
+  -------------------
+  Use the SwiftOnSecurity config as a starting point:
+  https://github.com/SwiftOnSecurity/sysmon-config
+
+  WAZUH INTEGRATION:
+  ------------------
+  Add to ossec.conf on the Windows agent:
+
+  <localfile>
+    <location>Microsoft-Windows-Sysmon/Operational</location>
+    <log_format>eventchannel</log_format>
+  </localfile>
+
+  This config will be populated in a future lab update.
+-->
+
+<!-- Placeholder — full Sysmon config coming in next lab iteration -->
+<Sysmon schemaversion="4.82">
+  <!-- Future configuration will go here -->
+</Sysmon>
