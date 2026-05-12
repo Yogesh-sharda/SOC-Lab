@@ -190,7 +190,7 @@ Full troubleshooting log → [`docs/troubleshooting.md`](docs/troubleshooting.md
 ## 📰 Full Write-Up
 
 Read the complete Medium article:
-[I Built a Home SOC Lab from Scratch — Here's Everything That Went Wrong (and Right)](https://medium.com/@yogeshsharda)
+[I Built a Home SOC Lab from Scratch — Here's Everything That Went Wrong (and Right)](https://medium.com/@yogesh.sharda2004/i-built-a-home-soc-lab-from-scratch-heres-everything-that-went-wrong-and-right-51dde76295be)
 
 ---
 
